@@ -4,7 +4,7 @@ A cross-platform mobile application built with React Native and Expo that helps 
 
 ## 📹 Demo
 
-https://github.com/JadhaAM/taskmanager-App/assets/demo.mp4
+[https://github.com/JadhaAM/taskmanager-App/assets/demo.mp4](https://github.com/JadhaAM/taskmanager-App/blob/main/assets/demo.mp4)
 
 <video autoplay loop muted playsinline>
   <source src="assets/demo.mp4" type="video/mp4">
