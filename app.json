@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "TaskManager",
+    "slug": "taskmanager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.amoljadhav.taskmanager",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.amoljadhav.taskmanager",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": []
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e9b136ce-ba62-44d8-bb1f-90ba53ca762d"
+      }
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "owner": "amoljadhav"
+  }
+}
