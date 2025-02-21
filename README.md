@@ -2,13 +2,13 @@
 
 A cross-platform mobile application built with React Native and Expo that helps users manage their daily tasks efficiently. The app provides a clean, intuitive interface for creating, organizing, and tracking tasks with features like due dates, descriptions, and search functionality.
 
-## 📹 Demo
-
-![Demo Video]
+## Demo Video 🎥
 
 <video autoplay loop muted playsinline>
-  <source src="https://github.com/user-attachments/assets/dae2ec2d-bf9a-430b-8e32-9460f812441f" type="video/mp4">
+  <source src="https://drive.google.com/uc?export=download&id=15WmRahpWA1MPFCscY_83J4XAcb4PiAu9" type="video/mp4">
 </video>
+
+
 
 ## 🚀 Features
 
